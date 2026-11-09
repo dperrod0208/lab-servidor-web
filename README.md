@@ -6,7 +6,7 @@ Servidor web con Apache en VirtualBox
 ## Objetivo: 
 Levantar un servidor de Apache con una maquina Ubuntu Server 22.04 y hacer una prueba de que funciona
 
-## Requisitos: VirtualBox, ISO de Ubuntu Server 22.04 y Sistema operativo Windows 11 (ejemplo)
+## Requisitos: VirtualBox, ISO de Ubuntu Server 22.04 y Sistema operativo Windows 11 (pot ejemplo, cualquier sistema operativo válido funcionará)
 
 ## Pasos: 
 1. Creación de la maquina
